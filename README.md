@@ -11,64 +11,6 @@ I enjoy building applications that connect AI models with practical user experie
 
 ---
 
-## 🚀 Current Focus
-
-- Building Android applications with **Kotlin and Jetpack Compose**.
-- Integrating conversational AI using **Koog, Ollama, and local language models**.
-- Exploring **computer vision**, **RAG**, and AI-assisted decision support.
-- Developing cross-platform application skills with **Flutter**.
-- Strengthening software quality through testing and DevOps practices.
-
----
-
-## 📁 Featured Projects
-
-### 🛣️ [RoadVisionAI — Intelligent Road Inspection Platform](https://github.com/malak-bakhouti/RoadVisionAI)
-
-*Fourth-year engineering internship — General Directorate of Roads, Ministry of Equipment and Water, Morocco.*
-
-AI-powered platform for detecting road pavement damage and supporting maintenance decisions. Combines YOLO11-based computer vision, rule-based assessment, RAG, and Gemini to analyze inspection results, generate maintenance recommendations, and visualize findings on interactive maps, with human validation.
-
-**Tech:** `YOLO11` `Computer Vision` `Angular` `FastAPI` `PostgreSQL/PostGIS` `ChromaDB` `Gemini` `Docker`
-
-### 💬 [KoMeet AI — Android & Conversational AI](https://github.com/malak-bakhouti/KoMeet-AI)
-
-*Université Côte d’Azur–EMSI — Mobile Programming and AI project.*
-
-Android application combining profile discovery, favorites, search preferences, and conversations with fictional AI characters. Each character has a persistent personality, mood, and speaking style. Conversations use a local language model and saved history to provide contextual responses.
-
-Built on an educational starter, with contributions covering mobile features, conversational AI integration, persistence, and related tests.
-
-**Status:** Functional version published under the `v2` tag; backend tests and Android build, tests, and lint passed.
-
-**Tech:** `Kotlin` `Jetpack Compose` `Ktor` `Koog` `Ollama` `Qwen2.5 3B` `SQLite` `Koin` `JWT`
-
-### 📊 [ForecastIQ — Sales Forecasting Web Application](https://github.com/malak-bakhouti/ForecastIQ)
-
-*Fourth-year PFA — EMSI.*
-
-Full-stack machine learning application featuring interactive dashboards for sales forecasting and analysis.
-
-**Tech:** `Next.js` `React` `Python` `Flask` `PostgreSQL` `Scikit-learn` `Statsmodels` `JWT`
-
-### 🕌 [Ministry of Habous Digital Portal](https://github.com/malak-bakhouti/Habous-Islamic-Affairs-Portal)
-
-*Third-year engineering internship — 2025.*
-
-Digital portal providing multilingual Quran access, prayer times and adhan, Qibla direction, a Hijri calendar, recorded khutbah videos and texts, and frequently asked questions.
-
-**Tech:** `Next.js` `Tailwind CSS` `Clerk` `REST APIs`
-
-### 📰 [NewSphere — News Explorer](https://github.com/malak-bakhouti/NewSphere)
-
-*Third-year PFA — EMSI.*
-
-News aggregation and exploration web application with a responsive interface for browsing current articles.
-
-**Tech:** `Next.js` `TypeScript` `Tailwind CSS`
-
----
-
 ## 🛠️ Languages & Tools
 
 ### 💻 Programming Languages
@@ -155,7 +97,53 @@ News aggregation and exploration web application with a responsive interface for
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
 ---
+## 📁 Featured Projects
 
+### 🛣️ [RoadVisionAI — Intelligent Road Inspection Platform](https://github.com/malak-bakhouti/RoadVisionAI)
+
+*Fourth-year engineering internship — General Directorate of Roads, Ministry of Equipment and Water, Morocco.*
+
+AI-powered platform for detecting road pavement damage and supporting maintenance decisions. Combines YOLO11-based computer vision, rule-based assessment, RAG, and Gemini to analyze inspection results, generate maintenance recommendations, and visualize findings on interactive maps, with human validation.
+
+**Tech:** `YOLO11` `Computer Vision` `Angular` `FastAPI` `PostgreSQL/PostGIS` `ChromaDB` `Gemini` `Docker`
+
+### 💬 [KoMeet AI — Android & Conversational AI](https://github.com/malak-bakhouti/KoMeet-AI)
+
+*Université Côte d’Azur–EMSI — Mobile Programming and AI project.*
+
+Android application combining profile discovery, favorites, search preferences, and conversations with fictional AI characters. Each character has a persistent personality, mood, and speaking style. Conversations use a local language model and saved history to provide contextual responses.
+
+Built on an educational starter, with contributions covering mobile features, conversational AI integration, persistence, and related tests.
+
+**Status:** Functional version published under the `v2` tag; backend tests and Android build, tests, and lint passed.
+
+**Tech:** `Kotlin` `Jetpack Compose` `Ktor` `Koog` `Ollama` `Qwen2.5 3B` `SQLite` `Koin` `JWT`
+
+### 📊 [ForecastIQ — Sales Forecasting Web Application](https://github.com/malak-bakhouti/ForecastIQ)
+
+*Fourth-year PFA — EMSI.*
+
+Full-stack machine learning application featuring interactive dashboards for sales forecasting and analysis.
+
+**Tech:** `Next.js` `React` `Python` `Flask` `PostgreSQL` `Scikit-learn` `Statsmodels` `JWT`
+
+### 🕌 [Ministry of Habous Digital Portal](https://github.com/malak-bakhouti/Habous-Islamic-Affairs-Portal)
+
+*Third-year engineering internship — 2025.*
+
+Digital portal providing multilingual Quran access, prayer times and adhan, Qibla direction, a Hijri calendar, recorded khutbah videos and texts, and frequently asked questions.
+
+**Tech:** `Next.js` `Tailwind CSS` `Clerk` `REST APIs`
+
+### 📰 [NewSphere — News Explorer](https://github.com/malak-bakhouti/NewSphere)
+
+*Third-year PFA — EMSI.*
+
+News aggregation and exploration web application with a responsive interface for browsing current articles.
+
+**Tech:** `Next.js` `TypeScript` `Tailwind CSS`
+
+---
 ## 🎖️ Certifications & Learning
 
 - **Oracle Cloud Infrastructure DevOps Professional** — Oracle, 2026
