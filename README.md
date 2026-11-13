@@ -1,7 +1,7 @@
 # Hi there, I'm Malak Bakhouti! 👋
 
 🎓 **Final-year engineering student** at [EMSI](https://www.emsi.ma) — Computer Science & Networks  
-🎓 **Master IA2 student in Artificial Intelligence** at Université Côte d’Azur through the UCA–EMSI partnership  
+🎓 **Master IA2 student in Artificial Intelligence** at [Université Côte d’Azur](https://univ-cotedazur.fr/) through the UCA–EMSI partnership
 📍 Rabat, Morocco  
 📧 malakbakhouti2@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/malak-bakhouti-705903379/)
 
@@ -10,8 +10,6 @@
 Passionate about **Full Stack Development**, **Artificial Intelligence**, **Mobile Development**, and **Network Security**.
 
 I enjoy building applications that connect AI models with practical user experiences, from computer vision and decision-support platforms to conversational Android applications.
-
-🔎 **Seeking a final-year internship in software development and AI starting in February 2027.**
 
 ---
 
