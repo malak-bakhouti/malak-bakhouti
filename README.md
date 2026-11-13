@@ -127,22 +127,6 @@ Full-stack machine learning application featuring interactive dashboards for sal
 
 **Tech:** `Next.js` `React` `Python` `Flask` `PostgreSQL` `Scikit-learn` `Statsmodels` `JWT`
 
-### 🕌 [Ministry of Habous Digital Portal](https://github.com/malak-bakhouti/Habous-Islamic-Affairs-Portal)
-
-*Third-year engineering internship — 2025.*
-
-Digital portal providing multilingual Quran access, prayer times and adhan, Qibla direction, a Hijri calendar, recorded khutbah videos and texts, and frequently asked questions.
-
-**Tech:** `Next.js` `Tailwind CSS` `Clerk` `REST APIs`
-
-### 📰 [NewSphere — News Explorer](https://github.com/malak-bakhouti/NewSphere)
-
-*Third-year PFA — EMSI.*
-
-News aggregation and exploration web application with a responsive interface for browsing current articles.
-
-**Tech:** `Next.js` `TypeScript` `Tailwind CSS`
-
 ---
 ## 🎖️ Certifications & Learning
 
