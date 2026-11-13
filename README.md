@@ -204,4 +204,4 @@ I'm interested in opportunities involving **software engineering**,
 
 - 📧 **Email:** [malakbakhouti2@gmail.com](mailto:malakbakhouti2@gmail.com)
 - 🔗 **LinkedIn:** [Malak Bakhouti](https://www.linkedin.com/in/malak-bakhouti-705903379/)
-- 💻 **GitHub:** [malak-bakhouti](https://github.com/malak-bakhouti)
+- 🌐 **Portfolio:** [malak-bakhouti.vercel.app](https://malak-bakhouti.vercel.app/)
